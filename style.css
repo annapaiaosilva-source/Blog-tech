@@ -4,6 +4,7 @@ header{
     text-align: center;
     max-width: 800px;
     margin: auto;
+    padding: 16px;
 }
 
 main{
@@ -11,4 +12,5 @@ main{
     color: blueviolet;
     max-width: 800px;
     margin: auto;
+    
 }
