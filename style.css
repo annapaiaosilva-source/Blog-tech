@@ -12,5 +12,10 @@ main{
     color: blueviolet;
     max-width: 800px;
     margin: auto;
-    
+  padding: 16px;  
+}
+
+img{ 
+width: 80px;
+height: 80px;
 }
